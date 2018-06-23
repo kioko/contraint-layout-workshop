@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ConstraintLayout</string>
+
+    <!-- Content Descriptions -->
+    <string name="content_description_image">Poster Image</string>
+    <string name="tab_title_info">Info</string>
+    <string name="tab_title_casts">Casts</string>
+    <string name="tab_title_reviews">Reviews</string>
+    <string name="movie_ratings">1,734 Ratings</string>
+    <string name="movie_release_year">June 2018</string>
+    <string name="movie_duration">2h 31 min</string>
+    <string name="movie_tilte">Incredibles 2</string>
+    <string name="detail_icon_transition_name">Transiton_Image</string>
 </resources>
